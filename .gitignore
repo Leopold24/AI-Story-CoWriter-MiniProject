@@ -1,0 +1,15 @@
+# Ignore generated story file
+my_ai_story.txt
+
+# Ignore Python virtual environments
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Ignore specific untracked files you listed (if you don't want them in repo)
+Index.html
+MyAIStoryWriter, PythonProjectsStoryCoWriter/
+format_selector_demo.py
+screenplay_full_guide.txt
+story_co_writer.py
